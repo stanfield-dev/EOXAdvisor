@@ -1,0 +1,63 @@
+{
+  "PaginationResponseRecord": {
+    "PageIndex": 1,
+    "LastIndex": 1,
+    "TotalRecords": 1,
+    "PageRecords": 1
+  },
+  "EOXRecord": [
+    {
+      "EOLProductID": "WS-C3650-24PS-E",
+      "ProductIDDescription": "Cisco Catalyst 3650 24 Port PoE 4x1G Uplink IP Services",
+      "ProductBulletinNumber": "EOL13617",
+      "LinkToProductBulletinURL": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3650-series-switches/eos-eol-notice-c51-744426.html",
+      "EOXExternalAnnouncementDate": {
+        "value": "2020-10-31",
+        "dateFormat": "YYYY-MM-DD"
+      },
+      "EndOfSaleDate": {
+        "value": "2021-10-31",
+        "dateFormat": "YYYY-MM-DD"
+      },
+      "EndOfSWMaintenanceReleases": {
+        "value": "2022-10-31",
+        "dateFormat": "YYYY-MM-DD"
+      },
+      "EndOfSecurityVulSupportDate": {
+        "value": "2024-10-30",
+        "dateFormat": "YYYY-MM-DD"
+      },
+      "EndOfRoutineFailureAnalysisDate": {
+        "value": "2022-10-31",
+        "dateFormat": "YYYY-MM-DD"
+      },
+      "EndOfServiceContractRenewal": {
+        "value": "2026-01-29",
+        "dateFormat": "YYYY-MM-DD"
+      },
+      "LastDateOfSupport": {
+        "value": "2026-10-31",
+        "dateFormat": "YYYY-MM-DD"
+      },
+      "EndOfSvcAttachDate": {
+        "value": "2022-10-31",
+        "dateFormat": "YYYY-MM-DD"
+      },
+      "UpdatedTimeStamp": {
+        "value": "2020-10-30",
+        "dateFormat": "YYYY-MM-DD"
+      },
+      "EOXMigrationDetails": {
+        "PIDActiveFlag": "Y",
+        "MigrationInformation": "Catalyst 9300L 24p PoE, Network Advantage ,4x1G Uplink",
+        "MigrationOption": "Enter PID(s)",
+        "MigrationProductId": "C9300L-24P-4G-A",
+        "MigrationProductName": "",
+        "MigrationStrategy": "",
+        "MigrationProductInfoURL": ""
+      },
+      "EOXInputType": "ShowEOXByPids",
+      "EOXInputValue": "WS-C3650-24PS-E "
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+﻿.BlankRow {
+    height: 11pt;
+    width: 100%;
+    float: left;
+    display: block;
+}
+
+.FormContainer {
+    width: 100%;
+}
+
+.GeneralData {
+    font-weight: normal;
+    font-size: 12pt;
+    width: auto;
+    float: left;
+}
+
+.GeneralLabel {
+    font-size: 12pt;
+    font-weight: bold;
+    width: 15%;
+    float: left;
+}
+
+.HeaderLabel {
+    width: 60%;
+    margin-top: 25px;
+    margin-bottom: 12px;
+    font-size: 18pt;
+    font-weight: bold;
+    background-color: bisque;
+    float: left;
+}
+
+.ReportNote {
+    color: red;
+    font-size: 12pt;
+    font-weight: bold;
+    background-color: yellow;
+    margin-top: 12px;
+    float: left;
+    display: block;
+}
+
+.ReportTitle {
+    width: 100%;
+    font-size: 32pt;
+    font-weight: bold;
+    float: left;
+    display: block;
+}
+
+.RowContainer {
+    width: 100%;
+    float: left;
+    display: block;
+}
+
+.TextBoxTitle {
+    width: auto;
+    margin-bottom: 15px;
+    font-size: 18pt;
+    font-weight: normal;
+    float: left;
+    display: block;
+}
+
+.URLFormat {
+    font-weight: normal;
+    font-size: 12pt;
+    width: auto;
+    float: left;
+}

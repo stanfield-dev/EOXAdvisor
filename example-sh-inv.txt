@@ -1,0 +1,164 @@
+﻿=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2020.09.25 14:13:43 =~=~=~=~=~=~=~=~=~=~=~=
+login as: titan
+Using keyboard-interactive authentication.
+Password: 
+
+
+
+ILWR_Core_SW1>en
+ILWR_Core_SW1#sh inv
+NAME: "Switch 1 Chassis", DESCR: "Cisco Catalyst 9600 Series 6 Slot Chassis"
+PID: C9606R            , VID: V01  , SN: FXS2418Q1WJ
+
+NAME: "Switch 1 Slot 1 Linecard", DESCR: "24-Port 40GE/12-Port 100GE"
+PID: C9600-LC-24C      , VID: V01  , SN: CAT2428L8DJ
+
+NAME: "FortyGigabitEthernet1/1/0/7", DESCR: "QSFP 40GE AOC5M"
+PID: QSFP-H40G-AOC5M     , VID: V03  , SN: DTS2352A848-A   
+
+NAME: "FortyGigabitEthernet1/1/0/8", DESCR: "QSFP 40GE AOC5M"
+PID: QSFP-H40G-AOC5M     , VID: V03  , SN: DTS2352A836-B   
+
+NAME: "FortyGigabitEthernet1/1/0/23", DESCR: "QSFP 40GE AOC5M"
+PID: QSFP-H40G-AOC5M     , VID: V03  , SN: DTS2352A837-B   
+
+NAME: "FortyGigabitEthernet1/1/0/24", DESCR: "QSFP 40GE AOC5M"
+PID: QSFP-H40G-AOC5M     , VID: V03  , SN: DTS2352A841-A   
+
+NAME: "Switch 1 Slot 2 Linecard", DESCR: "48-Port 10GE / 25GE"
+PID: C9600-LC-48YL     , VID: V01  , SN: CAT2425L6M3
+
+NAME: "TwentyFiveGigE1/2/0/1", DESCR: "SFP+ 10GBASE-LR"
+PID: SFP-10G-LR          , VID: V02  , SN: ONT161002DS     
+ --More--         
+NAME: "TwentyFiveGigE1/2/0/5", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VBZF     
+
+NAME: "TwentyFiveGigE1/2/0/9", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGD1608V014     
+
+NAME: "TwentyFiveGigE1/2/0/13", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VCAT     
+
+NAME: "TwentyFiveGigE1/2/0/17", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGD1608V024     
+
+NAME: "TwentyFiveGigE1/2/0/21", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VCAW     
+
+NAME: "TwentyFiveGigE1/2/0/25", DESCR: "SFP+ 10GBASE-LR"
+PID: SFP-10G-LR          , VID: V02  , SN: ONT161001V3     
+
+NAME: "TwentyFiveGigE1/2/0/29", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VCAX     
+
+NAME: "TwentyFiveGigE1/2/0/33", DESCR: "SFP+ 10GBASE-LRM"
+ --More--         PID: SFP-10G-LRM         , VID: V02  , SN: AGD1608V01H     
+
+NAME: "TwentyFiveGigE1/2/0/37", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VCAS     
+
+NAME: "TwentyFiveGigE1/2/0/41", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VCAR     
+
+NAME: "Switch 1 Slot 5 Linecard", DESCR: "48-Port 10GE and MGIG COPPER"
+PID: C9600-LC-48TX     , VID: V01  , SN: CAT2425L4YV
+
+NAME: "Switch 1 Slot 3 Supervisor", DESCR: "Supervisor 1 Module"
+PID: C9600-SUP-1       , VID: V02  , SN: CAT2428L5CB
+
+NAME: "Switch 1 Slot 4 Supervisor", DESCR: "Unknown Module"
+PID: Unknown PID       , VID:      , SN:            
+
+NAME: "Switch 1 Power Supply Module 1", DESCR: "Cisco Catalyst 9600 Series 2000W AC Power Supply"
+PID: C9600-PWR-2KWAC   , VID: V01  , SN: QCS24254Y8U
+
+NAME: "Switch 1 Power Supply Module 2", DESCR: "Cisco Catalyst 9600 Series 2000W AC Power Supply"
+ --More--         PID: C9600-PWR-2KWAC   , VID: V01  , SN: QCS24254Y80
+
+NAME: "Switch 1 Power Supply Module 3", DESCR: "Cisco Catalyst 9600 Series 2000W AC Power Supply"
+PID: C9600-PWR-2KWAC   , VID: V01  , SN: QCS24254YAJ
+
+NAME: "Switch 1 Power Supply Module 4", DESCR: "Cisco Catalyst 9600 Series 2000W AC Power Supply"
+PID: C9600-PWR-2KWAC   , VID: V01  , SN: QCS24254Y9L
+
+NAME: "Switch 1 Fan Tray", DESCR: "Cisco Catalyst 9600 Series C9606 Chassis Fan Tray"
+PID: C9606-FAN         , VID: V01  , SN: DCH2338W01U
+
+NAME: "Switch 2 Chassis", DESCR: "Cisco Catalyst 9600 Series 6 Slot Chassis"
+PID: C9606R            , VID: V01  , SN: FXS2423Q75C
+
+NAME: "Switch 2 Slot 1 Linecard", DESCR: "24-Port 40GE/12-Port 100GE"
+PID: C9600-LC-24C      , VID: V01  , SN: CAT2428L8BT
+
+NAME: "FortyGigabitEthernet2/1/0/7", DESCR: "QSFP 40GE AOC5M"
+PID: QSFP-H40G-AOC5M     , VID: V03  , SN: DTS2352A848-B   
+
+ --More--         NAME: "FortyGigabitEthernet2/1/0/8", DESCR: "QSFP 40GE AOC5M"
+PID: QSFP-H40G-AOC5M     , VID: V03  , SN: DTS2352A836-A   
+
+NAME: "FortyGigabitEthernet2/1/0/23", DESCR: "QSFP 40GE AOC5M"
+PID: QSFP-H40G-AOC5M     , VID: V03  , SN: DTS2352A837-A   
+
+NAME: "FortyGigabitEthernet2/1/0/24", DESCR: "QSFP 40GE AOC5M"
+PID: QSFP-H40G-AOC5M     , VID: V03  , SN: DTS2352A841-B   
+
+NAME: "Switch 2 Slot 2 Linecard", DESCR: "48-Port 10GE / 25GE"
+PID: C9600-LC-48YL     , VID: V01  , SN: CAT2425L6LA
+
+NAME: "TwentyFiveGigE2/2/0/1", DESCR: "SFP+ 10GBASE-LR"
+PID: SFP-10G-LR          , VID: V02  , SN: ONT161203PW     
+
+NAME: "TwentyFiveGigE2/2/0/5", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VC7L     
+
+NAME: "TwentyFiveGigE2/2/0/9", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VCAN     
+
+NAME: "TwentyFiveGigE2/2/0/13", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VC7P     
+ --More--         
+NAME: "TwentyFiveGigE2/2/0/17", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VC2Z     
+
+NAME: "TwentyFiveGigE2/2/0/21", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VC2Y     
+
+NAME: "TwentyFiveGigE2/2/0/25", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VC7M     
+
+NAME: "TwentyFiveGigE2/2/0/29", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGD1608V016     
+
+NAME: "TwentyFiveGigE2/2/0/33", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGD1608V02Z     
+
+NAME: "TwentyFiveGigE2/2/0/37", DESCR: "SFP+ 10GBASE-LR"
+PID: SFP-10G-LR          , VID: V02  , SN: ONT161002VC     
+
+NAME: "TwentyFiveGigE2/2/0/41", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V02  , SN: AGA1615VBZM     
+
+NAME: "Switch 2 Slot 5 Linecard", DESCR: "48-Port 10GE and MGIG COPPER"
+ --More--         PID: C9600-LC-48TX     , VID: V01  , SN: CAT2422L0GP
+
+NAME: "Switch 2 Slot 3 Supervisor", DESCR: "Supervisor 1 Module"
+PID: C9600-SUP-1       , VID: V02  , SN: CAT2428L59F
+
+NAME: "Switch 2 Slot 4 Supervisor", DESCR: "Unknown Module"
+PID: Unknown PID       , VID:      , SN:            
+
+NAME: "Switch 2 Power Supply Module 1", DESCR: "Cisco Catalyst 9600 Series 2000W AC Power Supply"
+PID: C9600-PWR-2KWAC   , VID: V01  , SN: QCS24254YA3
+
+NAME: "Switch 2 Power Supply Module 2", DESCR: "Cisco Catalyst 9600 Series 2000W AC Power Supply"
+PID: C9600-PWR-2KWAC   , VID: V01  , SN: QCS24254Y9X
+
+NAME: "Switch 2 Power Supply Module 3", DESCR: "Cisco Catalyst 9600 Series 2000W AC Power Supply"
+PID: C9600-PWR-2KWAC   , VID: V01  , SN: QCS24254Y6H
+
+NAME: "Switch 2 Power Supply Module 4", DESCR: "Cisco Catalyst 9600 Series 2000W AC Power Supply"
+PID: C9600-PWR-2KWAC   , VID: V01  , SN: QCS24254Y69
+ --More--         
+NAME: "Switch 2 Fan Tray", DESCR: "Cisco Catalyst 9600 Series C9606 Chassis Fan Tray"
+PID: C9606-FAN         , VID: V01  , SN: DCH2339W0E8
